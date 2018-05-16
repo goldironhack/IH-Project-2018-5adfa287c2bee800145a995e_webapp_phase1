@@ -1,0 +1,16 @@
+html, body {
+    color: #000099;
+    font-family: Arial, sans-serif;
+    height: 85%;
+    margin: 50px;
+    padding: 0;
+}
+
+.container {
+    width: 80%;
+    max-width: 960px;
+}
+
+#map {
+  height: 100%;
+}
